@@ -7,7 +7,7 @@
   "name":"Margherita Pizza",
   "description":"Topped with Gravy and Mozzorolia Cheese",
   "price":119,
-  "rating":4
+  "rating":2.7
 },
 {
   "id":2,
@@ -15,7 +15,7 @@
   "name":"Marvellous Mashroom Pizza",
   "description":"Topped with Mashroom, Oninons and Red Paprika",
   "price":229,
-  "rating":4
+  "rating":2
 },
 {
   "id":3,
@@ -31,7 +31,7 @@
   "name":"Mumbai Pizza",
   "description":"Topped with Tomatoes, Capsicum, Onion, Black Olives, Mashroom, Sweetcorn and Green Chilly",
   "price":249,
-  "rating":4
+  "rating":4.7
 },
 {
   "id":5,
@@ -39,7 +39,7 @@
   "name":"Paneer Makhani Pizza",
   "description":"Topped with Makhani Gravy, Capsicum Paneer and Red paprika",
   "price":219,
-  "rating":4
+  "rating":3
 },
 {
   "id":6,
@@ -47,7 +47,7 @@
   "name":"Your Style Pizza",
   "description":"Add topping to pizza as per your choice and find your own taste",
   "price":119,
-  "rating":4
+  "rating":3
 }
 ],
 
@@ -65,21 +65,21 @@
   "image":"assets/img/menu/Chilly_Cheese_Garlic_Bread.jpg",
   "name":"Chilly Cheese Garlic Bread",
   "price":109,
-  "rating":4
+  "rating":2.3
 },
 {
   "id":13,
   "image":"assets/img/menu/Sweetcorn_Cheese_Garlic_Bread.jpg",
   "name":"Sweetcorn Cheese Garlic Bread",
   "price":129,
-  "rating":4
+  "rating":5
 },
 {
   "id":14,
   "image":"assets/img/menu/Double_Cheese_Garlic_Bread.jpg",
   "name":"Double Cheese Garlic Bread",
   "price":149,
-  "rating":4
+  "rating":3.3
 }
 ],
 
@@ -90,28 +90,28 @@
   "image":"assets/img/menu/PeriPeri_French_Fries.jpg",
   "name":"PeriPeri French Fries",
   "price":99,
-  "rating":4
+  "rating":5
 },
 {
   "id":112,
   "image":"assets/img/menu/Classic_Salted_French_Fries.jpg",
   "name":"Classic Salted French Fries",
   "price":79,
-  "rating":4
+  "rating":4.1
 },
 {
   "id":113,
   "image":"assets/img/menu/Mayo_French_Fries.jpg",
   "name":"Mayo French Fries",
   "price":99,
-  "rating":4
+  "rating":2.4
 },
 {
   "id":114,
   "image":"assets/img/menu/Cheese_French_Fries.jpg",
   "name":"Cheese French Fries",
   "price":129,
-  "rating":4
+  "rating":2
 }
 ],
 
@@ -121,28 +121,28 @@
     "image":"assets/img/menu/Cafe_Americano.jpg",
     "name":"Cafe Americano",
     "price":79,
-    "rating":4
+    "rating":3
   },
   {
     "id":1112,
     "image":"assets/img/menu/Cold_Coffee.jpg",
     "name":"Cold Coffee",
     "price":79,
-    "rating":4
+    "rating":4.4
   },
   {
     "id":1113,
     "image":"assets/img/menu/Cold_Coco.jpg",
     "name":"Cold Coco",
     "price":99,
-    "rating":4
+    "rating":2.2
   },
   {
     "id":1114,
     "image":"assets/img/menu/Frizzy_Fruit_Beer.jpg",
     "name":"Frizzy Fruit Beer",
     "price":49,
-    "rating":4
+    "rating":5
   },
   {
     "id":1115,
