@@ -18,7 +18,7 @@ export class StarComponent implements OnInit {
 
   ngOnChanges(): void {
    //console.log("onchange",this.rating);
-   this.startwith=this.rating*16;
+   this.startwith=this.rating*20;
   }
   ngOnInit(): void {
   //  console.log("onit",this.rating);
